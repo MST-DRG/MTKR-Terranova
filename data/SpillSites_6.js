@@ -1,0 +1,1 @@
+var json_SpillSites_6 = {"type":"FeatureCollection","name":"SpillSites_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Spill Site Locations":"Mtkr Terranova","Lat":14.50532,"Lon":120.67427},"geometry":{"type":"Point","coordinates":[120.674267,14.505317]}}]}
